@@ -1,0 +1,7 @@
+﻿  Kaynak.cpp
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Arrays\Arrays\Kaynak.cpp(12,21): error C2059: sözdizimi hatası: ';'
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Arrays\Arrays\Kaynak.cpp(12,26): error C2059: sözdizimi hatası: ')'
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Arrays\Arrays\Kaynak.cpp(14,29): error C2059: sözdizimi hatası: ';'
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Arrays\Arrays\Kaynak.cpp(16,2): error C2059: sözdizimi hatası: 'return'
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Arrays\Arrays\Kaynak.cpp(17,1): error C2059: sözdizimi hatası: '}'
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Arrays\Arrays\Kaynak.cpp(17,1): error C2143: sözdizimi hatası: ';' eksik ('}' öncesinde)

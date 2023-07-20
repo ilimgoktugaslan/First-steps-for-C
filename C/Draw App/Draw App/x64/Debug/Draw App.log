@@ -1,0 +1,8 @@
+﻿  Kaynak.cpp
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Draw App\Draw App\Kaynak.cpp(21,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Draw App\Draw App\Kaynak.cpp(37,10): warning C4473: 'printf' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Draw App\Draw App\Kaynak.cpp(37,10): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Draw App\Draw App\Kaynak.cpp(37,10): message : eksik 2 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Draw App\Draw App\Kaynak.cpp(13,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Draw App\Draw App\Kaynak.cpp(15,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\goktu\OneDrive\Masaüstü\Masaüstü\Yazılım\Visual Studio\C\Draw App\Draw App\Kaynak.cpp(20,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

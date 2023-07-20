@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+C:\Users\goktu\source\repos\Pointers\Pointers\Kaynak.cpp(75,14): error C2131: ifade sabit olarak değerlendirilmedi
+C:\Users\goktu\source\repos\Pointers\Pointers\Kaynak.cpp(75,14): message : bir değişkenin kendi ömrünün dışında okunması bu hataya neden oldu
+C:\Users\goktu\source\repos\Pointers\Pointers\Kaynak.cpp(75,14): message : 'q' kullanımına bakın
